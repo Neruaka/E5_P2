@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\bac\\WindowsFormsAppGM23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|c:\\bac\\windowsformsappgm23\\windowsformsappgm23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:windowsformsappgm23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|c:\\bac\\windowsformsappgm23\\windowsformsappgm23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:windowsformsappgm23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\bac\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\Form1.cs",
+              "ToolTip": "C:\\bac\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsAppGM23\\Form1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:21:07.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\bac\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\Form1.cs",
+              "ToolTip": "C:\\bac\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppGM23\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:21:04.611Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
